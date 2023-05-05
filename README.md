@@ -1,2 +1,2 @@
 # E-commerce-website
-<h3>The Website is hosted using Netlify https://graceful-jelly-b0be08.netlify.app/ </h3>
+<h3>The Website is hosted using Netlify https://fantastic-stroopwafel-1d82b0.netlify.app/ </h3>
